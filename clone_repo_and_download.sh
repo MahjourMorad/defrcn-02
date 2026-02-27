@@ -1,6 +1,6 @@
 pip install gdown
-https://github.com/er-muyue/DeFRCN.git
-git clone https://github.com/er-muyue/DeFRCN.git
+#https://github.com/er-muyue/DeFRCN.git
+#git clone https://github.com/er-muyue/DeFRCN.git
 cd DeFRCN
 cd datasets
 apt update
@@ -13,6 +13,3 @@ unzip VOC2007.zip
 unzip VOC2012.zip
 unzip vocsplit.zip
 
-
-gdown --fuzzy --no-check-certificate https://drive.google.com/file/d/1rsE20_fSkYeIhFaNU04rBfEDkMENLibj/view
-unzip ImageNetPretrained.zip 
