@@ -1,0 +1,5 @@
+.cache
+.ipynb_checkpoints
+datasets/*
+DeFRCN/defrcn/data/ImageNetPretrained/
+DeFRCN/defrcn/data/ImageNetpretrained.zip
